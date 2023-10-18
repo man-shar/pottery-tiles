@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pottery-tiles/static/css/main.0e2acf68.css",
+    "main.js": "/pottery-tiles/static/js/main.149d378d.js",
+    "static/js/787.950dc15f.chunk.js": "/pottery-tiles/static/js/787.950dc15f.chunk.js",
+    "index.html": "/pottery-tiles/index.html",
+    "main.0e2acf68.css.map": "/pottery-tiles/static/css/main.0e2acf68.css.map",
+    "main.149d378d.js.map": "/pottery-tiles/static/js/main.149d378d.js.map",
+    "787.950dc15f.chunk.js.map": "/pottery-tiles/static/js/787.950dc15f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e2acf68.css",
+    "static/js/main.149d378d.js"
+  ]
+}
